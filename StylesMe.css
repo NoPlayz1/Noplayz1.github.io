@@ -1,0 +1,12 @@
+body{
+background-color:blue;
+}
+div{
+background-color:yellow ;
+}
+img{
+border-radius: 500px;
+border-style: Dashed;
+border-width: 8px;
+border-color: Black;
+}
